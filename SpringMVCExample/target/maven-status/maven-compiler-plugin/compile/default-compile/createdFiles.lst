@@ -1,0 +1,11 @@
+com\cg\demo\dao\DemoInventoryDAOImpl.class
+com\cg\demo\data\EmployeeDetails.class
+com\cg\demo\service\DemoInventoryService.class
+com\cg\demo\configuration\DemoInventoryInitializer.class
+com\cg\demo\service\DemoInventoryServiceImpl.class
+com\cg\demo\configuration\DemoInventoryConfiguration.class
+com\cg\demo\data\Department.class
+com\cg\demo\configuration\DemoInventoryDatabaseConfiguration.class
+com\cg\demo\data\Employee.class
+com\cg\demo\dao\DemoInventoryDAO.class
+com\cg\demo\controller\DemoInventoryController.class
